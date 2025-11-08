@@ -1,6 +1,6 @@
 
 
-# 👋 Olá! Eu sou a Sofia Mayumi 🌸
+# Olá! Eu sou a Sofia Mayumi 🌸
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Backend](https://img.shields.io/badge/Focus-Backend-green)
 ![Learning](https://img.shields.io/badge/Learning-Always-orange)
