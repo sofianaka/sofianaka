@@ -1,70 +1,26 @@
+<img src="banner.svg" alt="Sofia Nakamaru. Projetos com IA generativa." width="100%">
 
+Estudo Engenharia da Computação na UFPA, campus Castanhal, e tenho construído projetos com IA generativa: modelos de linguagem aplicados a dados e problemas reais.
 
-# Olá! Eu sou a Sofia Mayumi 🌸
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Backend](https://img.shields.io/badge/Focus-Backend-green)
-![Learning](https://img.shields.io/badge/Learning-Always-orange)
+Portfólio: [sofianaka.github.io](https://sofianaka.github.io)
 
-🎓 Estudante de **Engenharia da Computação**  
-💻 Focada em **desenvolvimento backend** e aprimorando meus conhecimentos em **Python**  
-🌱 Apaixonada por tecnologia, aprendizado contínuo e gatos🐱
+## Projetos
 
----
+**[Analisador de avaliações de delivery](https://github.com/sofianaka/analisador-avaliacoes-delivery)**
+Um modelo de linguagem classifica 300 avaliações reais do app do iFood no Google Play por sentimento e assunto. [Abrir o app](https://avaliacoes-delivery.streamlit.app)
 
-## 💡 Sobre mim
+**[Chat com artigos científicos](https://github.com/sofianaka/chat-artigos-cientificos)**
+Você envia um PDF, pergunta em português e a resposta vem dos trechos do próprio artigo, com a página. [Abrir o app](https://chat-artigos.streamlit.app)
 
-- 🚀 Atualmente estudando **backend** e desenvolvimento web  
-- 🧠 Aprendendo e praticando **Python, HTML, CSS, JavaScript, C# e Java**  
-- 💬 Gosto de resolver problemas e transformar ideias em código  
-- 🐱 Amo gatos e acredito que sempre há algo novo para aprender ✨  
+**[Bot de atendimento no Telegram](https://github.com/sofianaka/bot-biblioteca-n8n)**
+Um agente de IA montado no n8n que responde só com o que sabe e admite quando não sabe.
 
----
+## Com o que eu trabalho
 
-## 🛠️ Tecnologias que utilizo e estudo
+Python, Streamlit, Django, APIs de LLM (Groq e Gemini), RAG, n8n, Docker, Git e SQL. Também estudo Java e visão computacional.
 
-<div align="center">
+## Contato
 
-| Área | Tecnologias |
-|------|--------------|
-| 💻 Backend | Python • C# • Java |
-| 🌐 Frontend | HTML • CSS • JavaScript |
-| ⚙️ Ferramentas | Git • GitHub |
+[LinkedIn](https://www.linkedin.com/in/sofia-nakamaru/)
 
-</div>
-
-
----
-
-## 📚 Atualmente aprendendo
-
-- 🌍 Fundamentos de **desenvolvimento backend e web**  
-- 🧠 Práticas avançadas em **Python**  
-- ⚙️ Lógica de programação e boas práticas de código  
-
----
-
-## 🌍 Onde me encontrar
-
-📧 **Email:** [mayumi@email.com](mailto:mayumi@email.com)  
-🐙 **GitHub:** [github.com/mayuminaka](https://github.com/mayuminaka)  
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![Mayumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayuminaka&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayuminaka&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## ✨ Um pouco sobre mim
-
-> “Acredito que tecnologia e ciência podem caminhar juntas por um futuro mais sustentável.  
-> Amo gatos e gosto de estar em constante aprendizado.” 🐱🌿
-
----
+Nas horas vagas, sou supervisionada por gatos. 🐱
