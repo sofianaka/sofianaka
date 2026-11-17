@@ -15,9 +15,9 @@ Você envia um PDF, pergunta em português e a resposta vem dos trechos do próp
 **[Bot de atendimento no Telegram](https://github.com/sofianaka/bot-biblioteca-n8n)**
 Um agente de IA montado no n8n que responde só com o que sabe e admite quando não sabe.
 
-## Com o que eu trabalho
+## O que usei nesses projetos
 
-Python, Streamlit, Django, APIs de LLM (Groq e Gemini), RAG, n8n, Docker, Git e SQL. Também estudo Java e visão computacional.
+Python, Streamlit, APIs de LLM (Groq e Gemini), RAG, embeddings, n8n e Docker. Fora deles, também mexo com Django, SQL e Git, e estudo Java e visão computacional.
 
 ## Contato
 
